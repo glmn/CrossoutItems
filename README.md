@@ -1,12 +1,12 @@
 # CrossoutItems
-A set of images of items named based on CrossoutDB API id's 
+A set of images. File names based on [CrossoutDB API](https://github.com/Zicore/CrossoutMarket#crossoutdb-api) items id.
 
 
 ## Todo list:
  - [x] Cabins
  - [x] Weapons
  - [x] Hardware
- - [ ] Movement
+ - [x] Movement
  - [ ] Structure
  - [ ] Decor
  - [ ] Dyes
