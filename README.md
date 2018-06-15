@@ -7,7 +7,10 @@ A set of (1024x1024) images. File names based on [CrossoutDB API](https://github
  - [x] Weapons
  - [x] Hardware
  - [x] Movement
- - [ ] Decor
+ - [x] Decor
  - [ ] Dyes
  - [ ] Resources
  - [ ] Customization
+
+ ## Missed:
+ Missile balloons [647]
