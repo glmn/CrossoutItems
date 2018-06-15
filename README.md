@@ -7,7 +7,6 @@ A set of images. File names based on [CrossoutDB API](https://github.com/Zicore/
  - [x] Weapons
  - [x] Hardware
  - [x] Movement
- - [ ] Structure
  - [ ] Decor
  - [ ] Dyes
  - [ ] Resources
