@@ -8,9 +8,11 @@ A set of (1024x1024) images. File names based on [CrossoutDB API](https://github
  - [x] Hardware
  - [x] Movement
  - [x] Decor
- - [ ] Dyes
+ - [x] Dyes
  - [ ] Resources
  - [ ] Customization
 
  ## Missed:
- Missile balloons [647]
+ [Missile balloons [647]](https://crossoutdb.com/item/647)
+ [Pattern: Aboriginal [467]](https://crossoutdb.com/item/467)
+ [Pattern: Down under [468]](https://crossoutdb.com/item/468)
