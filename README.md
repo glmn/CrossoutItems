@@ -1,5 +1,5 @@
 # CrossoutItems
-A set of images. File names based on [CrossoutDB API](https://github.com/Zicore/CrossoutMarket#crossoutdb-api) items id.
+A set of (1024x1024) images. File names based on [CrossoutDB API](https://github.com/Zicore/CrossoutMarket#crossoutdb-api) items id.
 
 
 ## Todo list:
