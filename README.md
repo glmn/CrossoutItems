@@ -9,7 +9,7 @@ A set of (1024x1024) images. File names based on [CrossoutDB API](https://github
  - [x] Movement
  - [x] Decor
  - [x] Dyes
- - [ ] Resources
+ - [x] Resources
  - [ ] Customization
 
  ## Missed:
