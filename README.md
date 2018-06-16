@@ -11,6 +11,3 @@ A set of ingame images. File names based on [CrossoutDB API](https://github.com/
  - [x] Dyes
  - [x] Resources
  - [ ] Customization
-
- ## Missed:
- [Missile balloons [647]](https://crossoutdb.com/item/647)
