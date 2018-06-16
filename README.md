@@ -7,7 +7,7 @@ Compressed using [pngquant](https://pngquant.org/)
 ```pngquant.exe --ext=.png --force --verbose --ordered --speed=1 --quality=50-90```
 
 ## Resize
-Resized using (ImageMagick)[https://www.imagemagick.org/script/download.php]
+Resized using [ImageMagick](https://www.imagemagick.org/script/download.php)
 
 ```magick.exe mogrify -resize 512x512 -path 512x512/ *.png```
 
