@@ -6,6 +6,15 @@ A set of ingame images grabbed from [Crossout Wiki](http://ru.crossout.wikia.com
 
 <img src="https://raw.githubusercontent.com/glmn/CrossoutItems/master/512x512/162.png" width="400">![](https://raw.githubusercontent.com/glmn/CrossoutItems/master/256x256/162.png)![](https://raw.githubusercontent.com/glmn/CrossoutItems/master/128x128/162.png)![](https://raw.githubusercontent.com/glmn/CrossoutItems/master/64x64/162.png)
 
+## Preview fractions
+<img src="https://raw.githubusercontent.com/glmn/CrossoutItems/master/icons/fractions/engineers.png" width="80">
+<img src="https://raw.githubusercontent.com/glmn/CrossoutItems/master/icons/fractions/lunatics.png" width="80">
+<img src="https://raw.githubusercontent.com/glmn/CrossoutItems/master/icons/fractions/nomads.png" width="80">
+<img src="https://raw.githubusercontent.com/glmn/CrossoutItems/master/icons/fractions/scavangers.png" width="80">
+<img src="https://raw.githubusercontent.com/glmn/CrossoutItems/master/icons/fractions/steppenwolfs.png" width="80">
+<img src="https://raw.githubusercontent.com/glmn/CrossoutItems/master/icons/fractions/dawns_children.png" width="80">
+<img src="https://raw.githubusercontent.com/glmn/CrossoutItems/master/icons/fractions/firtestarters.png" width="80">
+
 ## Compression
 Compressed using [pngquant](https://pngquant.org/)
 
