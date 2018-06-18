@@ -1,5 +1,5 @@
 # CrossoutItems
-A set of ingame images grabbed from [Crossout Wiki](http://ru.crossout.wikia.com). File names based on [CrossoutDB API](https://github.com/Zicore/CrossoutMarket#crossoutdb-api) items id.
+A set of ingame images grabbed from [Crossout Wiki](http://ru.crossout.wikia.com). Items file names based on [CrossoutDB API](https://github.com/Zicore/CrossoutMarket#crossoutdb-api) items id.
 
 ## Preview
 <img src="https://raw.githubusercontent.com/glmn/CrossoutItems/master/512x512/497.png" width="400">![](https://raw.githubusercontent.com/glmn/CrossoutItems/master/256x256/497.png)![](https://raw.githubusercontent.com/glmn/CrossoutItems/master/128x128/497.png)![](https://raw.githubusercontent.com/glmn/CrossoutItems/master/64x64/497.png)
@@ -21,6 +21,7 @@ Resized using [ImageMagick](https://www.imagemagick.org/script/download.php)
 
 
 ## Todo list:
+Items
  - [x] Cabins
  - [x] Weapons
  - [x] Hardware
@@ -29,3 +30,7 @@ Resized using [ImageMagick](https://www.imagemagick.org/script/download.php)
  - [x] Dyes
  - [x] Resources
  - [x] Customization
+
+Icons
+ - [x] Fractions
+ - [x] Categories
